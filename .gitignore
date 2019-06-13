@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+#data
+austin_mobility_data
+austin_mobility_data.csv
+
 # C extensions
 *.so
 
